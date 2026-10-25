@@ -1,0 +1,938 @@
+{
+"as_of": "2026-10-25",
+"zones": {
+"Africa/Abidjan": {
+"iso2": "SN",
+"where": "Dakar, Senegal",
+"status": "illegal",
+"headline": "Illegal; prison terms even for small amounts",
+"points": [
+"Possession for personal use: criminal offence, prison possible",
+"Growing or selling: long prison terms",
+"Medical: not permitted"
+],
+"varies": "Ghana allows licensed low-THC hemp; Iceland illegal, fines for small amounts",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Senegal"
+},
+"Africa/Cairo": {
+"iso2": "EG",
+"where": "Cairo, Egypt",
+"status": "death",
+"headline": "Illegal; death sentences given for trafficking hashish",
+"points": [
+"Possession: prison and heavy fines",
+"Trafficking or importing: death penalty on the books",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Africa/Johannesburg": {
+"iso2": "ZA",
+"where": "Johannesburg, South Africa",
+"status": "legal",
+"headline": "Legal for adults in private only; buying and selling illegal",
+"points": [
+"Private use and home grow legal since 2018 Constitutional Court ruling",
+"Cannabis for Private Purposes Act 2024 signed; not yet in force",
+"2026 draft rules: 750 g and 5 plants (pending)",
+"Sales outside medical channels: illegal"
+],
+"varies": "Zimbabwe (Harare): illegal for recreation; licensed medical growing only",
+"as_of": "2026-10-25",
+"source": "https://www.ewn.co.za/new-draft-rules-aim-to-end-south-africa-s-cannabis-confusion/"
+},
+"Africa/Lagos": {
+"iso2": "NG",
+"where": "Lagos, Nigeria",
+"status": "illegal",
+"headline": "Illegal; trafficking can bring life imprisonment",
+"points": [
+"Possession: criminal offence, prison likely",
+"2024-25 NDLEA Act amendment: life terms for trafficking",
+"Senate's death-penalty proposal dropped for life imprisonment",
+"Medical: not permitted"
+],
+"varies": "Algeria added the death penalty for drug trafficking in 2025",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Nigeria"
+},
+"America/Adak": {
+"iso2": "US",
+"where": "Aleutian Islands, Alaska, USA",
+"status": "legal",
+"headline": "Legal for adults 21+",
+"points": [
+"Possess up to 1 oz",
+"Grow up to 6 plants (3 mature), 12 per household",
+"Public use: fine",
+"Still illegal under US federal law"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.mpp.org/states/alaska"
+},
+"America/Anchorage": {
+"iso2": "US",
+"where": "Anchorage, Alaska, USA",
+"status": "legal",
+"headline": "Legal for adults 21+",
+"points": [
+"Possess up to 1 oz",
+"Grow up to 6 plants (3 mature), 12 per household",
+"Licensed stores; public use is a fine",
+"Still illegal under US federal law"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.mpp.org/states/alaska"
+},
+"America/Caracas": {
+"iso2": "VE",
+"where": "Caracas, Venezuela",
+"status": "illegal",
+"headline": "Illegal; small amounts treated as consumption, not dealing",
+"points": [
+"Up to 20 g: treated as personal use (security/rehab measures)",
+"Above that: trafficking charges, long prison terms",
+"Medical: not permitted"
+],
+"varies": "Bolivia (La Paz): illegal; coca leaf legal, cannabis is not",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Venezuela"
+},
+"America/Chicago": {
+"iso2": "US",
+"where": "Chicago, Illinois, USA",
+"status": "legal",
+"headline": "Legal for adults 21+",
+"points": [
+"Residents: 30 g flower, 5 g concentrate, 500 mg THC in edibles",
+"Home grow: medical patients only (5 plants)",
+"Licensed dispensaries statewide"
+],
+"varies": "Texas (Dallas): illegal; low-THC medical only",
+"as_of": "2026-10-25",
+"source": "https://idfpr.illinois.gov/profs/adultusecan.html"
+},
+"America/Denver": {
+"iso2": "US",
+"where": "Denver, Colorado, USA",
+"status": "legal",
+"headline": "Legal for adults 21+",
+"points": [
+"Possess up to 2 oz; buy 1 oz at a time",
+"Grow 6 plants per adult, 12 per home",
+"No public consumption"
+],
+"varies": "Utah and Idaho differ: Utah medical only, Idaho fully illegal",
+"as_of": "2026-10-25",
+"source": "https://www.mpp.org/states/colorado"
+},
+"America/Edmonton": {
+"iso2": "CA",
+"where": "Edmonton, Alberta, Canada",
+"status": "legal",
+"headline": "Legal for adults 18+",
+"points": [
+"Possess up to 30 g in public (federal limit)",
+"Grow up to 4 plants per household",
+"Buy from licensed retail stores"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html"
+},
+"America/Halifax": {
+"iso2": "CA",
+"where": "Halifax, Nova Scotia, Canada",
+"status": "legal",
+"headline": "Legal for adults 19+",
+"points": [
+"Possess up to 30 g in public (federal limit)",
+"Grow up to 4 plants per household",
+"Sold only through NSLC stores"
+],
+"varies": "Bermuda: possession up to 7 g decriminalized; licensing law not in force",
+"as_of": "2026-10-25",
+"source": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html"
+},
+"America/Havana": {
+"iso2": "CU",
+"where": "Havana, Cuba",
+"status": "illegal",
+"headline": "Illegal; the law allows death for trafficking, but no death sentence for marijuana is documented",
+"points": [
+"Possession: prison terms, zero-tolerance policing",
+"Trafficking: long sentences; death penalty legally possible",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"America/Lima": {
+"iso2": "PE",
+"where": "Lima, Peru",
+"status": "legal",
+"headline": "Legal to possess up to 8 g for personal use (no penalty); sale illegal; medical legal",
+"points": [
+"Up to 8 g for immediate personal use: no penalty",
+"Sale or larger amounts: trafficking charges",
+"Medical: legal since 2017, incl. registered patient self-grow"
+],
+"varies": "Colombia allows 20 g and 20 plants; Panama medical only",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Peru"
+},
+"America/Los_Angeles": {
+"iso2": "US",
+"where": "Los Angeles, California, USA",
+"status": "legal",
+"headline": "Legal for adults 21+",
+"points": [
+"Possess up to 28.5 g flower, 8 g concentrate",
+"Grow up to 6 plants per residence",
+"Licensed dispensaries; no public use"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://cannabis.ca.gov/cannabis-laws/laws-and-regulations/"
+},
+"America/Mexico_City": {
+"iso2": "MX",
+"where": "Mexico City, Mexico",
+"status": "decriminalized",
+"headline": "Up to 5 g decriminalized; court-ordered permits for personal use",
+"points": [
+"Possession up to 5 g: not prosecuted",
+"2021 Supreme Court ruling: COFEPRIS permits for personal use/grow",
+"No legal sales; regulation law still stalled in Congress",
+"Medical: legal, narrow"
+],
+"varies": "Guatemala: illegal, prison for possession",
+"as_of": "2026-10-25",
+"source": "https://www.cannabisregulations.ai/country-legality/mexico-marijuana"
+},
+"America/Miquelon": {
+"iso2": "FR",
+"where": "Saint-Pierre & Miquelon (France)",
+"status": "illegal",
+"headline": "Illegal under French law",
+"points": [
+"Possession: on-the-spot fixed fine (amende forfaitaire, typically EUR 200)",
+"Growing or selling: prison",
+"Medical: France's pilot program is mainland only"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Saint_Pierre_and_Miquelon"
+},
+"America/New_York": {
+"iso2": "US",
+"where": "New York City, New York, USA",
+"status": "legal",
+"headline": "Legal for adults 21+",
+"points": [
+"Possess up to 3 oz flower, 24 g concentrate",
+"Home grow: 3 mature + 3 immature per adult, 6 mature per home",
+"Smoking allowed where tobacco is"
+],
+"varies": "Ontario (Toronto): legal 19+, 30 g, 4 plants; some US Eastern states illegal",
+"as_of": "2026-10-25",
+"source": "https://cannabis.ny.gov/"
+},
+"America/Noronha": {
+"iso2": "BR",
+"where": "Fernando de Noronha, Pernambuco, Brazil",
+"status": "decriminalized",
+"headline": "Personal possession decriminalized (2024 Supreme Court ruling)",
+"points": [
+"Up to 40 g or 6 female plants presumed personal use",
+"Penalty: administrative (warning/education), not criminal",
+"Sale and public smoking: still illegal",
+"Medical: products via Anvisa authorization"
+],
+"varies": "South Georgia: UK territory, no permanent population",
+"as_of": "2026-10-25",
+"source": "https://norml.org/news/2025/04/03/brazil-supreme-court-affirms-adults-can-possess-grow-marijuana-for-personal-use/"
+},
+"America/Nuuk": {
+"iso2": "DK",
+"where": "Nuuk, Greenland (Denmark)",
+"status": "illegal",
+"headline": "Illegal; fines for small amounts",
+"points": [
+"Possession: fines under the Greenland Criminal Code",
+"Larger amounts or dealing: prison possible",
+"Medical: status unclear (sources conflict)"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Greenland"
+},
+"America/Phoenix": {
+"iso2": "US",
+"where": "Phoenix, Arizona, USA",
+"status": "legal",
+"headline": "Legal for adults 21+",
+"points": [
+"Possess up to 1 oz, max 5 g concentrate",
+"Grow 6 plants per adult, 12 per household",
+"2026 repeal initiative was abandoned"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.mpp.org/states/arizona"
+},
+"America/Santiago": {
+"iso2": "CL",
+"where": "Santiago, Chile",
+"status": "decriminalized",
+"headline": "Private personal use not penalized; public use or possession fined",
+"points": [
+"Private personal use: not penalized",
+"Public use or carrying: fines/court",
+"Home grow for personal use tolerated; dealing is a crime",
+"Medical: prescription products in pharmacies"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Chile"
+},
+"America/Sao_Paulo": {
+"iso2": "BR",
+"where": "São Paulo, Brazil",
+"status": "decriminalized",
+"headline": "Personal possession decriminalized (2024 Supreme Court ruling)",
+"points": [
+"Up to 40 g or 6 female plants presumed personal use",
+"Penalty: administrative (warning/education), not criminal",
+"Sale and public smoking: still illegal"
+],
+"varies": "Argentina (Buenos Aires): private use tolerated by courts; medical grow registry",
+"as_of": "2026-10-25",
+"source": "https://norml.org/news/2025/04/03/brazil-supreme-court-affirms-adults-can-possess-grow-marijuana-for-personal-use/"
+},
+"America/St_Johns": {
+"iso2": "CA",
+"where": "St. John's, Newfoundland and Labrador, Canada",
+"status": "legal",
+"headline": "Legal for adults 19+",
+"points": [
+"Possess up to 30 g in public (federal limit)",
+"Grow up to 4 plants per household",
+"Licensed private retailers"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html"
+},
+"America/Vancouver": {
+"iso2": "CA",
+"where": "Vancouver, British Columbia, Canada",
+"status": "legal",
+"headline": "Legal for adults 19+",
+"points": [
+"Possess up to 30 g in public (federal limit)",
+"Grow up to 4 plants per household, out of public view",
+"Licensed public and private stores"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html"
+},
+"America/Winnipeg": {
+"iso2": "CA",
+"where": "Winnipeg, Manitoba, Canada",
+"status": "legal",
+"headline": "Legal for adults 19+",
+"points": [
+"Possess up to 30 g in public (federal limit)",
+"Grow up to 4 plants per residence, indoors and secured from youth (since May 2025)",
+"Licensed private retail stores"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html"
+},
+"Antarctica/Troll": {
+"iso2": "NO",
+"where": "Troll Station, Queen Maud Land (Norway)",
+"status": "medical",
+"headline": "Norwegian law applies to station staff: recreational illegal; medical by prescription (Norway)",
+"points": [
+"Norwegian criminal law covers Norwegians in Queen Maud Land",
+"Norway: possession illegal; small amounts usually fined",
+"Medical: legal by prescription in Norway"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Norway"
+},
+"Asia/Beirut": {
+"iso2": "LB",
+"where": "Beirut, Lebanon",
+"status": "illegal",
+"headline": "Illegal; medical growing law passed but no licences issued yet",
+"points": [
+"Possession: up to 3 years in prison (Law 673)",
+"Law 178/2020: licensed medical and industrial cultivation",
+"Regulatory authority formed July 2025; licensing just starting"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://legalclarity.org/is-weed-legal-in-lebanon-laws-and-penalties/"
+},
+"Asia/Dhaka": {
+"iso2": "BD",
+"where": "Dhaka, Bangladesh",
+"status": "illegal",
+"headline": "Illegal; the law allows death for trafficking, but no death sentence for marijuana is documented",
+"points": [
+"Consumption: 3 months to 2 years in prison",
+"Narcotics Control Act 2018: death possible above set quantities",
+"Medical: not permitted"
+],
+"varies": "Kazakhstan (Almaty): illegal; small amounts an administrative offence",
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Asia/Dubai": {
+"iso2": "AE",
+"where": "Dubai, United Arab Emirates",
+"status": "death",
+"headline": "Illegal; zero tolerance, death sentences given for trafficking",
+"points": [
+"Possession or use, even traces in blood: prison and deportation",
+"Trafficking: death penalty possible",
+"CBD and medical cannabis: banned"
+],
+"varies": "Azerbaijan (Baku): illegal, prison for possession",
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Asia/Gaza": {
+"iso2": "PS",
+"where": "Gaza City, Gaza Strip (Palestine)",
+"status": "death",
+"headline": "Illegal; death sentences given for hashish trafficking",
+"points": [
+"Possession: prison",
+"Trafficking: death penalty under Gaza authorities' drug law",
+"Wartime: courts and enforcement disrupted since 2023"
+],
+"varies": "West Bank (Palestinian Authority): illegal, prison; no death penalty for drugs",
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Asia/Jakarta": {
+"iso2": "ID",
+"where": "Jakarta, Indonesia",
+"status": "death",
+"headline": "Illegal; death sentences given for trafficking",
+"points": [
+"Cannabis is a Class I narcotic; possession: 4-12 years prison",
+"Trafficking over 1 kg or 5 plants: death possible",
+"Medical: banned"
+],
+"varies": "Thailand: prescription-only medical since June 2025; Vietnam also has the death penalty",
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Asia/Jerusalem": {
+"iso2": "IL",
+"where": "Jerusalem, Israel",
+"status": "decriminalized",
+"headline": "Personal use decriminalized (fines); medical legal",
+"points": [
+"Personal use/possession: administrative fine (up to 500 shekels)",
+"Dealing or growing: criminal",
+"Medical: licensed program, pharmacy dispensing"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Israel"
+},
+"Asia/Kabul": {
+"iso2": "AF",
+"where": "Kabul, Afghanistan",
+"status": "illegal",
+"headline": "Illegal; Taliban 2022 ban on all drug cultivation and use",
+"points": [
+"Use and possession: detention, flogging reported",
+"Growing: crops destroyed, prison",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Afghanistan"
+},
+"Asia/Karachi": {
+"iso2": "PK",
+"where": "Karachi, Pakistan",
+"status": "illegal",
+"headline": "Illegal; death penalty for drugs abolished in 2023",
+"points": [
+"Possession: prison under Control of Narcotic Substances Act",
+"Trafficking: up to life imprisonment",
+"Medical/industrial hemp: licensing authority created 2024"
+],
+"varies": "Uzbekistan (Tashkent): illegal, prison for possession",
+"as_of": "2026-10-25",
+"source": "https://jpp.org.pk/wp-content/uploads/2025/03/JPP-MSU-CFLI-Policy-Brief_CNSA-Analysis.pdf"
+},
+"Asia/Kathmandu": {
+"iso2": "NP",
+"where": "Kathmandu, Nepal",
+"status": "illegal",
+"headline": "Illegal since 1976; federal legalization bill pending",
+"points": [
+"Possession or use: fines and prison",
+"Growing or selling: prison",
+"Gandaki Province passed medical/industrial grow law (July 2026)"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Nepal"
+},
+"Asia/Kolkata": {
+"iso2": "IN",
+"where": "Mumbai, Maharashtra, India",
+"status": "death",
+"headline": "Illegal; death sentences given for repeat large-scale hashish trafficking",
+"points": [
+"Small-quantity possession: up to 1 year prison or fine",
+"NDPS s.31A: death possible on repeat 20 kg+ hashish conviction",
+"Bhang (leaf) legal in some states; Maharashtra restricts it"
+],
+"varies": "Sri Lanka (Colombo): illegal; Ayurvedic medical use; death penalty on the books",
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Asia/Manila": {
+"iso2": "PH",
+"where": "Manila, Philippines",
+"status": "illegal",
+"headline": "Illegal; harsh penalties, up to life imprisonment",
+"points": [
+"Possession under 300 g: 12-20 years prison",
+"500 g or more: life imprisonment (death penalty abolished 2006)",
+"Medical: only FDA compassionate permits; bill pending"
+],
+"varies": "China and Singapore: death penalty for trafficking; Perth: WA rules",
+"as_of": "2026-10-25",
+"source": "https://www.respicio.ph/commentaries/current-legal-status-and-pending-legislation-on-medical-cannabis-in-the-philippines"
+},
+"Asia/Sakhalin": {
+"iso2": "RU",
+"where": "Yuzhno-Sakhalinsk, Russia",
+"status": "illegal",
+"headline": "Illegal; under 6 g is an administrative offence",
+"points": [
+"Under 6 g: fine or up to 15 days' arrest",
+"6 g or more: criminal charges, prison",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Russia"
+},
+"Asia/Tehran": {
+"iso2": "IR",
+"where": "Tehran, Iran",
+"status": "death",
+"headline": "Illegal; death penalty applied for large-scale trafficking",
+"points": [
+"Use: fines, lashes or prison",
+"Trafficking over 50 kg of cannabis: death penalty",
+"Iran led world drug executions in 2025 (955+)"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Asia/Tokyo": {
+"iso2": "JP",
+"where": "Tokyo, Japan",
+"status": "medical",
+"headline": "Recreational illegal (use a crime since Dec 2024); medical allowed in law",
+"points": [
+"Use or possession: up to 7 years prison",
+"Approved cannabis-derived medicines now allowed",
+"CBD legal only under strict THC limits"
+],
+"varies": "South Korea (Seoul): illegal, death penalty legally possible",
+"as_of": "2026-10-25",
+"source": "https://www.talkingdrugs.org/japan-bans-cannabis-use-yet-opens-medical-cannabis-industry/"
+},
+"Asia/Yangon": {
+"iso2": "MM",
+"where": "Yangon, Myanmar",
+"status": "illegal",
+"headline": "Illegal; the law allows death for trafficking, but no death sentence for marijuana is documented",
+"points": [
+"Possession: prison",
+"Trafficking: life or death sentence possible",
+"Medical: not permitted"
+],
+"varies": "Cocos Islands: Australian territory, WA law applies",
+"as_of": "2026-10-25",
+"source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+},
+"Atlantic/Azores": {
+"iso2": "PT",
+"where": "Ponta Delgada, Azores, Portugal",
+"status": "decriminalized",
+"headline": "Personal possession decriminalized since 2001",
+"points": [
+"Up to a 10-day supply (about 25 g herb): administrative, not criminal",
+"Referral to a dissuasion commission; fines possible",
+"Growing and selling: criminal",
+"Medical: legal by prescription"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Portugal"
+},
+"Atlantic/Cape_Verde": {
+"iso2": "CV",
+"where": "Praia, Cape Verde",
+"status": "illegal",
+"headline": "Illegal for recreational and medical use",
+"points": [
+"Possession: criminal offence",
+"Trafficking: long prison terms",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Cape_Verde"
+},
+"Australia/Adelaide": {
+"iso2": "AU",
+"where": "Adelaide, South Australia, Australia",
+"status": "decriminalized",
+"headline": "Small amounts get an expiation fee instead of charges",
+"points": [
+"Up to 100 g: Cannabis Expiation Notice ($250-$400 fee)",
+"1 non-hydroponic plant: expiation notice",
+"Medical: legal with prescription (federal)"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.lawhandbook.sa.gov.au/ch12s10s02.php"
+},
+"Australia/Brisbane": {
+"iso2": "AU",
+"where": "Brisbane, Queensland, Australia",
+"status": "medical",
+"headline": "Recreational illegal (police diversion for small amounts); medical by prescription",
+"points": [
+"Under 50 g: police drug diversion instead of charge",
+"Law passed Apr 2026 cuts diversion to 1 lifetime chance; diversion provisions not yet in force",
+"Growing: illegal",
+"Medical: legal with prescription (federal)"
+],
+"varies": "Guam: legal for adults 21+, 1 oz and 6 plants",
+"as_of": "2026-10-25",
+"source": "https://georgecriminallawyers.com.au/relaxed-drug-possession-laws-in-queensland/"
+},
+"Australia/Darwin": {
+"iso2": "AU",
+"where": "Darwin, Northern Territory, Australia",
+"status": "decriminalized",
+"headline": "Small amounts and 2 plants get an infringement fine",
+"points": [
+"Up to 50 g: infringement notice (fine), no conviction",
+"Up to 2 non-hydroponic plants: infringement notice",
+"Medical: legal with prescription (federal)"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Australia"
+},
+"Australia/Eucla": {
+"iso2": "AU",
+"where": "Eucla, Western Australia, Australia",
+"status": "medical",
+"headline": "Recreational illegal; medical by prescription",
+"points": [
+"Under 10 g, first offence: Cannabis Intervention Requirement session",
+"Growing: illegal",
+"Medical: legal with prescription (federal)"
+],
+"varies": "ACT (Canberra) allows adults to possess 50 g and grow 2 plants",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Australia"
+},
+"Australia/Lord_Howe": {
+"iso2": "AU",
+"where": "Lord Howe Island, New South Wales, Australia",
+"status": "medical",
+"headline": "Recreational illegal (police caution for small amounts); medical by prescription",
+"points": [
+"Up to 15 g: police caution, max 2 per adult",
+"Growing: illegal",
+"Medical: legal with prescription (federal)"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Australia"
+},
+"Australia/Sydney": {
+"iso2": "AU",
+"where": "Sydney, New South Wales, Australia",
+"status": "medical",
+"headline": "Recreational illegal (police caution for small amounts); medical by prescription",
+"points": [
+"Up to 15 g: police caution, max 2 per adult",
+"Growing: illegal",
+"Medical: legal with prescription (federal)"
+],
+"varies": "Victoria (Melbourne): illegal, diversion; ACT allows 50 g and 2 plants",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Australia"
+},
+"Etc/GMT+12": {
+"iso2": "US",
+"where": "Baker & Howland Islands (USA)",
+"status": "illegal",
+"headline": "No permanent population; US federal law",
+"points": [
+"Uninhabited US wildlife refuges",
+"Federal law: marijuana illegal (only state-medical moved to Sched. III, 2026)",
+"Access by permit only"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://moritzlaw.osu.edu/research/drugs-ballot"
+},
+"Europe/Athens": {
+"iso2": "GR",
+"where": "Athens, Greece",
+"status": "medical",
+"headline": "Illegal for recreation; medical legal",
+"points": [
+"Personal possession: up to 5 months prison, often suspended",
+"Growing or selling: prison",
+"Medical: legal, prescription products since 2023"
+],
+"varies": "Ukraine: medical legal since 2025; Finland: illegal, fines for small amounts",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Greece"
+},
+"Europe/London": {
+"iso2": "GB",
+"where": "London, England, UK",
+"status": "medical",
+"headline": "Illegal (Class B); medical by specialist prescription",
+"points": [
+"Possession: up to 5 years prison; warnings common for small amounts",
+"Supply or growing: up to 14 years",
+"Medical: specialist prescription since 2018"
+],
+"varies": "Ireland: illegal, adult caution scheme; Portugal: decriminalized",
+"as_of": "2026-10-25",
+"source": "https://www.gov.uk/penalties-drug-possession-dealing"
+},
+"Europe/Moscow": {
+"iso2": "RU",
+"where": "Moscow, Russia",
+"status": "illegal",
+"headline": "Illegal; under 6 g is an administrative offence",
+"points": [
+"Under 6 g: fine or up to 15 days' arrest",
+"6 g or more: criminal charges, prison",
+"Medical: not permitted"
+],
+"varies": "Turkey: illegal, prison; Kenya (Nairobi): illegal, heavy penalties",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Russia"
+},
+"Europe/Paris": {
+"iso2": "FR",
+"where": "Paris, France",
+"status": "medical",
+"headline": "Recreational illegal (on-the-spot fines); national medical pilot",
+"points": [
+"Possession/use: fixed fine (amende forfaitaire, typically EUR 200)",
+"Growing or selling: prison",
+"Medical: pilot patients' coverage extended past March 2026 pending HAS opinion; no new patients; permanent rules pending"
+],
+"varies": "Germany legal (25 g, 3 plants); Spain clubs tolerated; Italy illegal",
+"as_of": "2026-10-25",
+"source": "https://www.service-public.gouv.fr/particuliers/actualites/A16479"
+},
+"Pacific/Auckland": {
+"iso2": "NZ",
+"where": "Auckland, New Zealand",
+"status": "medical",
+"headline": "Illegal for recreation; medical scheme since 2020",
+"points": [
+"Possession: up to 3 months prison/fine; police may warn instead",
+"Growing or dealing: prison",
+"Medical: prescription under Medicinal Cannabis Scheme"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_New_Zealand"
+},
+"Pacific/Chatham": {
+"iso2": "NZ",
+"where": "Chatham Islands, New Zealand",
+"status": "medical",
+"headline": "Illegal for recreation; medical scheme since 2020",
+"points": [
+"Possession: up to 3 months prison/fine; police may warn instead",
+"Growing or dealing: prison",
+"Medical: prescription under Medicinal Cannabis Scheme"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_New_Zealand"
+},
+"Pacific/Easter": {
+"iso2": "CL",
+"where": "Easter Island (Rapa Nui), Chile",
+"status": "decriminalized",
+"headline": "Private personal use not penalized; public use or possession fined",
+"points": [
+"Private personal use: not penalized",
+"Public use or carrying: fines/court",
+"Medical: prescription products"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Chile"
+},
+"Pacific/Fiji": {
+"iso2": "FJ",
+"where": "Suva, Fiji",
+"status": "illegal",
+"headline": "Illegal; severe penalties",
+"points": [
+"Possession: prison sentences common, even small amounts",
+"Cultivation/trafficking: long prison terms (up to life)",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Fiji"
+},
+"Pacific/Gambier": {
+"iso2": "FR",
+"where": "Gambier Islands, French Polynesia (France)",
+"status": "illegal",
+"headline": "Illegal under French law",
+"points": [
+"Possession: criminal; fixed fines or prosecution",
+"Growing or selling: prison",
+"Medical: France's pilot program not extended here"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_France"
+},
+"Pacific/Honolulu": {
+"iso2": "US",
+"where": "Honolulu, Hawaii, USA",
+"status": "decriminalized",
+"headline": "Medical legal; 3 g or less is a $130 civil fine",
+"points": [
+"3 g or less: $130 civil fine, no jail",
+"Over 3 g: criminal charges possible",
+"Medical: registered patients, 10 plants, dispensaries"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://www.mpp.org/states/hawaii"
+},
+"Pacific/Kiritimati": {
+"iso2": "KI",
+"where": "Kiritimati, Kiribati",
+"status": "illegal",
+"headline": "Illegal for recreational and medical use",
+"points": [
+"Possession: criminal offence, prison possible",
+"Growing or selling: prison",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Kiribati"
+},
+"Pacific/Marquesas": {
+"iso2": "FR",
+"where": "Marquesas Islands, French Polynesia (France)",
+"status": "illegal",
+"headline": "Illegal under French law",
+"points": [
+"Possession: criminal; fixed fines or prosecution",
+"Growing or selling: prison",
+"Medical: France's pilot program not extended here"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_France"
+},
+"Pacific/Norfolk": {
+"iso2": "AU",
+"where": "Norfolk Island, Australia",
+"status": "medical",
+"headline": "Recreational use illegal (NSW law applied since 2016); medical by prescription (federal TGA)",
+"points": [
+"Possession: illegal (Norfolk/NSW-applied drug law)",
+"Growing: illegal",
+"Medical: federal prescription scheme"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Australia"
+},
+"Pacific/Pago_Pago": {
+"iso2": "US",
+"where": "Pago Pago, American Samoa (USA)",
+"status": "illegal",
+"headline": "Illegal; no medical program",
+"points": [
+"Possession: criminal offence under territorial law",
+"Also illegal under US federal law",
+"Medical: not permitted"
+],
+"varies": "Midway: no permanent population; US federal law",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_American_Samoa"
+},
+"Pacific/Pitcairn": {
+"iso2": "GB",
+"where": "Adamstown, Pitcairn Islands (UK)",
+"status": "illegal",
+"headline": "Illegal under local drugs ordinance",
+"points": [
+"Possession: criminal offence",
+"Growing or supply: criminal offence",
+"Medical: not permitted"
+],
+"varies": null,
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Legality_of_cannabis"
+},
+"Pacific/Tongatapu": {
+"iso2": "TO",
+"where": "Nuku'alofa, Tonga",
+"status": "illegal",
+"headline": "Illegal; tough Illicit Drugs Control Act",
+"points": [
+"Possession: heavy fines and prison",
+"Trafficking: long prison terms",
+"Medical: not permitted"
+],
+"varies": "Samoa (Apia): illegal, prison for possession",
+"as_of": "2026-10-25",
+"source": "https://en.wikipedia.org/wiki/Cannabis_in_Tonga"
+}
+}
+}

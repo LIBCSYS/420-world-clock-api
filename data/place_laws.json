@@ -1,0 +1,1056 @@
+{
+"as_of": "2026-10-25",
+"places": {
+"Africa/Abidjan|Accra": {
+"iso2": "GH",
+"lat": 5.56,
+"lon": -0.19,
+"iana": "Africa/Accra",
+"where": "Accra, Ghana",
+"status": "medical",
+"headline": "Possession is a crime punished by fine; licensed low-THC medical/industrial use only",
+"points": [
+"Personal-use possession: fine of 200-500 penalty units under Act 1019; default can mean jail",
+"Unlicensed growing, supply and trafficking: long prison terms",
+"Licences for low-THC (≤0.3%) growing for industry/medicine issued by NACOC from 2026",
+"Same national law applies in Accra; no city-level rules"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://ghalii.org/akn/gh-hr-accra/judgment/ghacc/2023/919/eng@2023-03-28/source",
+"https://lite.judy.legal/amp/legislation/akn/gh/act/2020/1019/",
+"https://gna.org.gh/2026/08/nacoc-presents-first-cannabis-cultivation-licences-to-two-companies/"
+]
+},
+"Africa/Abidjan|Reykjavik": {
+"iso2": "IS",
+"lat": 64.15,
+"lon": -21.94,
+"iana": "Atlantic/Reykjavik",
+"where": "Reykjavik, Iceland",
+"status": "illegal",
+"headline": "Possession is a crime; small personal amounts usually end in a police fine",
+"points": [
+"Personal possession: police summary fine on a per-gram scale (cap 500,000 ISK)",
+"Sale or supply: always prosecuted in court",
+"Growing: illegal",
+"Medical: no program; only Sativex on prescription"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.nordicalcohol.org/iceland-cannabis",
+"https://en.wikipedia.org/wiki/Cannabis_in_Iceland",
+"https://grapevine.is/?p=10053039"
+]
+},
+"Africa/Johannesburg|Harare": {
+"iso2": "ZW",
+"lat": -17.83,
+"lon": 31.05,
+"iana": "Africa/Harare",
+"where": "Harare, Zimbabwe",
+"status": "medical",
+"headline": "Personal use is a crime; licensed medical and research production since 2018",
+"points": [
+"Possession for personal use: crime, punished with a fine and/or prison",
+"Growing without a licence: illegal; licensed medical/research growing under SI 62/2018",
+"Dealing: up to 15 years; 2025 High Court said fines first for first offenders",
+"Medical: licensed production exists; access for individual patients is limited"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.heraldonline.co.zw/govt-legalises-mbanje-farming/",
+"https://www.news24.com/africa/zimbabwe/cannabis-not-for-recreational-purposes-govt-warns-zimbabweans-20180504",
+"https://www.zimlive.com/?p=53509"
+]
+},
+"Africa/Lagos|Algiers": {
+"iso2": "DZ",
+"lat": 36.75,
+"lon": 3.06,
+"iana": "Africa/Algiers",
+"where": "Algiers, Algeria",
+"status": "illegal",
+"headline": "Illegal; possession means prison or treatment; no death sentence on record for this drug",
+"points": [
+"Personal use: about 2 months-2 years prison, or court-ordered treatment (Law 04-18)",
+"Growing and trafficking: long prison terms up to life",
+"Law 25-03 (2025) allows death for aggravated trafficking; Algiers death sentences were for cocaine",
+"No medical route"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.algerie360.com/peine-mort-cour-alger-trafic-drogue/",
+"https://www.tsa-algerie.com/trafic-de-drogue-les-premieres-peines-de-mort-prononcees-en-algerie/",
+"https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+]
+},
+"Africa/Lagos|Kinshasa": {
+"iso2": "CD",
+"lat": -4.32,
+"lon": 15.31,
+"iana": "Africa/Kinshasa",
+"where": "Kinshasa, Democratic Republic of the Congo",
+"status": "illegal",
+"headline": "Possession, growing and sale are crimes under the 1971 narcotics ordinance",
+"points": [
+"No legal personal amount; possession can bring arrest, fines or prison",
+"Growing illegal for individuals; trafficking reported up to 20 years",
+"2021 ministerial order licenses low-THC medical growing by firms; no patient route",
+"Enforcement uneven; pretrial detention is a real risk"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://en.wikipedia.org/wiki/Cannabis_in_the_Democratic_Republic_of_the_Congo",
+"https://ocindex.net/country/congo-dem-rep",
+"https://www.cannabisregulations.ai/country-legality/democratic-republic-of-the-congo-marijuana"
+]
+},
+"America/Caracas|La Paz": {
+"iso2": "BO",
+"lat": -16.5,
+"lon": -68.15,
+"iana": "America/La_Paz",
+"where": "La Paz, Bolivia",
+"status": "illegal",
+"headline": "Illegal; personal use can mean committed treatment, trafficking 10-25 years",
+"points": [
+"Law 1008 (1988) bans possession and use; no legal personal amount",
+"Personal-use quantity: held in a treatment facility until 'rehabilitated'",
+"Beyond a minimal amount: possession/trafficking charges; trafficking 10-25 yrs",
+"No medical program; growing illegal"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.tni.org/en/publication/about-drug-law-reform-in-bolivia",
+"https://tni.org/files/Panorama%20Regional%20Leyes%20Drogas%20Final%2003.10.pdf",
+"https://ungassondrugs.org/en/country-information/latin-america/bolivia"
+]
+},
+"America/Chicago|Dallas": {
+"iso2": "US",
+"lat": 32.78,
+"lon": -96.8,
+"iana": "America/Chicago",
+"where": "Dallas, Texas, USA",
+"status": "medical",
+"headline": "Texas: recreational use is a crime; low-THC medical program (TCUP) is the only legal route",
+"points": [
+"Possession up to 2 oz: Class B misdemeanor, up to 180 days jail and $2,000 fine",
+"Growing is illegal; no adult-use shops",
+"TCUP medical: low-THC products, 10 mg/dose cap; flower barred; expanded 9/2025 (HB 46)",
+"Dallas Prop R (2024) local decriminalization blocked by court order since July 2025"
+],
+"varies": "Some Texas cities voted local decriminalization; courts have blocked or struck most of these",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.dps.texas.gov/section/compassionate-use-program/89th-legislation",
+"https://www.mpp.org/states/texas/hb46-expands-compassionate-use-program/",
+"https://sportsday.dallasnews.com/news/politics/2025/07/04/dallas-agrees-to-block-enforcement-of-weed-decriminalization-after-appeals-court-ruling"
+]
+},
+"America/Edmonton|Calgary": {
+"iso2": "CA",
+"lat": 51.05,
+"lon": -114.07,
+"iana": "America/Edmonton",
+"where": "Calgary, Alberta, Canada",
+"status": "legal",
+"headline": "Legal for adults 18+ in Alberta; up to 30 g in public, licensed stores",
+"points": [
+"Age 18+ (Alberta's minimum); up to 30 g dried in public",
+"Growing: up to 4 plants per household from legal seeds/plants",
+"Sale outside licensed AGLC system is a crime; public-use limits set by city bylaw",
+"Medical access via federal Cannabis Regulations licensed producers"
+],
+"varies": "Calgary bylaws restrict public consumption; landlords/condo boards may bar growing",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.alberta.ca/system/files/custom_downloaded_images/cannabis-future-of-cannabis-alberta.pdf",
+"https://en.wikipedia.org/wiki/Cannabis_laws_of_Canada_by_province_or_territory",
+"https://stalbert.ca/city/eps/mes/cannabis/where-can-i-consume/"
+]
+},
+"America/Halifax|Bermuda": {
+"iso2": "BM",
+"lat": 32.29,
+"lon": -64.78,
+"iana": "Atlantic/Bermuda",
+"where": "Bermuda (British Overseas Territory)",
+"status": "decriminalized",
+"headline": "Up to 7 g is not a criminal offence, but police seize it; use and growing still banned",
+"points": [
+"Possession of 7 g or less: no criminal offence since 20 Dec 2017; police may seize any amount",
+"Over 7 g: arrest and prosecution; consuming, growing, import and trafficking remain offences",
+"Medical: doctor-prescribed use allowed; patients apply to import their own supply",
+"2022 licensing bill for legal sales blocked by the Governor and the UK; not in force"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.gov.bm/public-awareness-fact-sheet",
+"https://www.gov.bm/news/public-awareness-campaign-decriminalisation-cannabis",
+"https://en.wikipedia.org/wiki/Cannabis_in_Bermuda"
+]
+},
+"America/Lima|Bogotá": {
+"iso2": "CO",
+"lat": 4.71,
+"lon": -74.07,
+"iana": "America/Bogota",
+"where": "Bogotá, Colombia",
+"status": "legal",
+"headline": "Personal dose up to 20 g is protected; sales illegal; public-space use restricted",
+"points": [
+"Adults may carry up to 20 g (dosis personal, Law 30 of 1986); no crime (C-221/1994)",
+"Growing up to 20 plants for personal use tolerated; no legal shops",
+"Decree 2114 (Dec 2023) repealed the 2018 police seizure-and-fine procedure for personal doses; selling is still a crime",
+"Medical: licensed products by prescription (Law 1787 of 2016)"
+],
+"varies": "Bogotá and other cities may restrict use in parks and near schools under the Police Code",
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://sidn.ramajudicial.gov.co/SIDN/PUBLICACIONES PERIODICAS/TEXTO COMPLETO Y TABLAS DE CONTENIDO PP/Gaceta de la Corte Constitucional/Edición Extraordinaria. Sentencia C-221 de 1994.pdf",
+"https://sidn.ramajudicial.gov.co/SIDN/NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS 2023/DECRETO 2114 DE 2023.PDF",
+"https://www.eltiempo.com/politica/gobierno/gobierno-derogo-decreto-que-definia-procedimiento-policial-en-casos-de-porte-de-drogas-833990"
+]
+},
+"America/Lima|Panama": {
+"iso2": "PA",
+"lat": 8.98,
+"lon": -79.52,
+"iana": "America/Panama",
+"where": "Panama City, Panama",
+"status": "medical",
+"headline": "Recreational possession illegal; 2021 medical law is reaching pharmacies",
+"points": [
+"Personal-use possession remains penalized under the Penal Code",
+"Possession not for personal use (Art. 321): long prison terms; trafficking (Art. 313): 8-15 yrs",
+"Medical: Law 242 of 2021 created a licensed medical route; products entering pharmacies",
+"Growing for personal use: illegal"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.prensa.com/sociedad/cannabis-medicinal-gana-terreno-en-panama-esto-cambia-para-las-farmacias/",
+"https://www.tvn-2.com/nacionales/panama-incluye-cannabis-listado-oficial_1_2210965.amp.html",
+"https://facderecho.up.ac.pa/sites/facderecho/files/2023-06/5.El%20delito%20de%20Posesi%C3%B3n%20agravada.Gonzalez.pdf"
+]
+},
+"America/Los_Angeles|Seattle": {
+"iso2": "US",
+"lat": 47.61,
+"lon": -122.33,
+"iana": "America/Los_Angeles",
+"where": "Seattle, Washington, United States",
+"status": "legal",
+"headline": "Adults 21+ may possess and buy from licensed stores; home growing still barred",
+"points": [
+"Age 21+: up to 1 oz flower, 16 oz solid edibles, 72 oz liquid, 7 g concentrate",
+"Licensed retail stores since 2014; public use is a civil infraction",
+"Growing: illegal for adult use; 2025-26 home-grow bills (HB 1449, SB 6204) not enacted",
+"Medical: authorized patients may grow 6 plants (up to 15) and buy tax-free"
+],
+"varies": "Federal law still prohibits; federal land excluded",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://app.leg.wa.gov/RCW/default.aspx?cite=69.50.4013",
+"https://app.leg.wa.gov/RCW/default.aspx?cite=69.50.360",
+"https://wacities.org/news/2025/01/25/authorizing-home-cannabis-cultivation-under-consideration-in-the-house"
+]
+},
+"America/Mexico_City|Guatemala": {
+"iso2": "GT",
+"lat": 14.63,
+"lon": -90.51,
+"iana": "America/Guatemala",
+"where": "Guatemala City, Guatemala",
+"status": "illegal",
+"headline": "Illegal; even possession for personal use can mean prison",
+"points": [
+"Possession for own use: 4 months to 2 years in prison plus a Q200-Q10,000 fine (Art. 39)",
+"Growing: illegal",
+"Trafficking or storage: 12-20 years in prison plus heavy fines",
+"Medical: no legal program"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.tni.org/es/publicacion/reforma-de-la-ley-de-drogas-en-guatemala-guia-basica",
+"https://livinginguatemala.com/guides/cannabis-cbd-guatemala/"
+]
+},
+"America/New_York|Toronto": {
+"iso2": "CA",
+"lat": 43.65,
+"lon": -79.38,
+"iana": "America/Toronto",
+"where": "Toronto, Ontario, Canada",
+"status": "legal",
+"headline": "Legal for adults 19+ in Ontario; buy from licensed stores or the Ontario Cannabis Store",
+"points": [
+"Age 19+; up to 30 g dried (or equivalent) in public",
+"Growing: up to 4 plants per residence, seeds from a legal source",
+"Over the limit: ticket up to 5 yrs; illegal sale up to 14 yrs (federal)",
+"Federal medical program available"
+],
+"varies": "Landlords and condo boards may ban growing or use in units",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.ontario.ca/page/cannabis-laws",
+"https://laws-lois.justice.gc.ca/eng/acts/c-24.5/"
+]
+},
+"America/Noronha|South Georgia": {
+"iso2": "GS",
+"lat": -54.28,
+"lon": -36.49,
+"iana": "Atlantic/South_Georgia",
+"where": "South Georgia & South Sandwich Islands (UK territory)",
+"status": "illegal",
+"headline": "UK territory with no permanent residents; controlled drugs banned under local ordinance",
+"points": [
+"No permanent population; only scientists, officials and visiting ships",
+"Applied law refers to a Dangerous Drugs Ordinance (Chapter 18) for drug offences",
+"UK medical prescription route does not extend here; no local medical scheme",
+"Ships and visitors are subject to territory law and permits"
+],
+"varies": null,
+"confidence": "low",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://laws.gov.gs/application-of-enactments",
+"https://laws.gov.gs/english-law/"
+]
+},
+"America/Sao_Paulo|Buenos Aires": {
+"iso2": "AR",
+"lat": -34.6,
+"lon": -58.38,
+"iana": "America/Argentina/Buenos_Aires",
+"where": "Buenos Aires, Argentina",
+"status": "decriminalized",
+"headline": "Private personal use protected by Supreme Court; registered medical growing",
+"points": [
+"Federal Law 23.737 applies in the city and province; no local carve-out",
+"Arriola (2009): private adult personal use not punishable; cases often dismissed",
+"Public or larger possession: 1 month-6 yrs on paper; trafficking 4-15 yrs",
+"Medical: REPROCANN registry allows registered home growing (tightened 2025)"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.argentina.gob.ar/normativa/nacional/norma-413121",
+"https://en.wikipedia.org/wiki/Cannabis_in_Argentina",
+"https://www.cannabisregulations.ai/cannabis-and-hemp-regulations-compliance-ai-blog/argentina-2025-reprocann-2-0-updates"
+]
+},
+"Asia/Dhaka|Bishkek": {
+"iso2": "KG",
+"lat": 42.87,
+"lon": 74.59,
+"iana": "Asia/Bishkek",
+"where": "Bishkek, Kyrgyzstan",
+"status": "illegal",
+"headline": "Illegal: small amounts fined, larger amounts bring criminal prison terms",
+"points": [
+"Below the 'significant amount': fine (about 2,000 KGS reported), escalating on repeat",
+"Above the threshold: criminal possession, prison up to about 5 years",
+"Growing and sale are crimes; trafficking draws long prison terms",
+"No medical program"
+],
+"varies": null,
+"confidence": "low",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://en.wikipedia.org/wiki/Cannabis_in_Kyrgyzstan",
+"https://www.tripbase.com/drug-laws/kyrgyzstan/",
+"https://24.kg/english/359045_More_than_two_kilograms_of_marijuana_seized_in_Bishkek"
+]
+},
+"Asia/Dubai|Baku": {
+"iso2": "AZ",
+"lat": 40.41,
+"lon": 49.87,
+"iana": "Asia/Baku",
+"where": "Baku, Azerbaijan",
+"status": "illegal",
+"headline": "Illegal; small personal amounts administrative, larger amounts criminal",
+"points": [
+"Possession below a 'significant amount': administrative fine/detention (2023 amendment)",
+"Above personal-use amount: criminal, Criminal Code art. 234.1, about 2-3 yrs prison",
+"Growing and trafficking: crimes with multi-year prison terms",
+"No medical route"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.azernews.az/nation/218870.html",
+"https://www.stat.gov.az/special_version/news/index.php?id=5803",
+"https://www.cannabisregulations.ai/country-legality/azerbaijan-marijuana"
+]
+},
+"Asia/Gaza|West Bank": {
+"iso2": "PS",
+"lat": 31.9,
+"lon": 35.2,
+"iana": "Asia/Hebron",
+"where": "West Bank (Palestinian Authority areas), Palestine",
+"status": "illegal",
+"headline": "Illegal under PA Decree-Law 18 of 2015; prison for possession, long terms for trafficking",
+"points": [
+"Possession, use, growing and sale banned under Decree-Law 18/2015 (amended 2020)",
+"Personal use: prison and fines; trafficking and growing: 10+ years, up to life with hard labour",
+"No death penalty for drug offences in PA law; death sentences reported are Gaza-only",
+"Medical: no program"
+],
+"varies": "Israeli settlements in Area C fall under Israeli law, not PA law",
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://security-legislation.ps/wp-content/uploads/sites/4/2021/07/Law-by-Decree-No.-29-of-2020-Concerning-the-Amendment-of-the-Law-by-Decree-No.-18-of-2015-on-Narcotic-Drugs-and-Psychotropic-Substances-as-Amended-.pdf",
+"https://www.cannabisregulations.ai/location/palestine",
+"https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+]
+},
+"Asia/Jakarta|Bangkok": {
+"iso2": "TH",
+"lat": 13.76,
+"lon": 100.5,
+"iana": "Asia/Bangkok",
+"where": "Bangkok, Thailand",
+"status": "medical",
+"headline": "Medical only since June 2025: flower sold only on a doctor's prescription",
+"points": [
+"Flower reclassified as controlled herbal medicine; recreational use no longer lawful",
+"Shops may sell only with a prescription, up to a 30-day personal supply",
+"Sellers breaking the order face up to 1 year jail and ฿20,000 fine",
+"Extracts over 0.2% THC remain narcotics; smuggling brings prison"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.khaosodenglish.com/life/2025/06/27/thailand-starts-banning-the-sale-of-cannabis-without-a-prescription/amp/",
+"https://www.khaosodenglish.com/featured/2025/06/25/thailand-tightens-cannabis-control-as-18000-shops-must-adapt/"
+]
+},
+"Asia/Jakarta|Hanoi": {
+"iso2": "VN",
+"lat": 21.03,
+"lon": 105.85,
+"iana": "Asia/Ho_Chi_Minh",
+"where": "Hanoi, Vietnam",
+"status": "death",
+"headline": "Illegal; Vietnamese courts have sentenced cannabis traffickers to death",
+"points": [
+"Use: fines or compulsory rehab; use after rehab is a crime since 1 Jul 2025 (2-5 yrs)",
+"Possession ≥1 kg leaf/flower or ≥1 g resin: 3-5 yrs, more for larger amounts",
+"Sale of ≥150 kg leaf/flower or ≥30 kg resin: life or death (Art. 251(5))",
+"No medical program"
+],
+"varies": "National Penal Code applies uniformly; no Hanoi-specific rules",
+"confidence": "high",
+"death_evidence": "12 Jun 2026: Quang Ninh Provincial People's Court sentenced Nguyen Phi Co and Nguyen Duy Manh to death in a 401 kg cannabis trafficking ring (national law, same in Hanoi)",
+"as_of": "2026-10-25",
+"sources": [
+"https://tapchitoaan.vn/xet-xu-duong-day-mua-ban-hon-400-kg-ma-tuy-can-sa-qua-mang-xa-hoi15746.html",
+"https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf",
+"https://xaydungchinhsach.chinhphu.vn/toan-van-luat-so-86-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-bo-luat-hinh-su-119250723084702787.htm"
+]
+},
+"Asia/Jerusalem|Tel Aviv": {
+"iso2": "IL",
+"lat": 32.09,
+"lon": 34.78,
+"iana": "Asia/Jerusalem",
+"where": "Tel Aviv, Israel",
+"status": "decriminalized",
+"headline": "Private personal use draws an administrative fine; large licensed medical program",
+"points": [
+"Adult personal use/possession (about 15 g) in private: administrative fine, first time",
+"Repeat offences, minors, or public use can still lead to prosecution",
+"Growing and sale: criminal offences",
+"Medical: licensed program via Health Ministry (IMCA), pharmacies dispense"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.talkingdrugs.org/israel-decriminalises-cannabis-possession-with-caveats",
+"https://www.jewishnews.co.uk/israels-plan-to-partially-decriminalise-marijuana-goes-into-effect/",
+"https://en.wikipedia.org/wiki/Cannabis_in_Israel"
+]
+},
+"Asia/Karachi|Tashkent": {
+"iso2": "UZ",
+"lat": 41.3,
+"lon": 69.24,
+"iana": "Asia/Tashkent",
+"where": "Tashkent, Uzbekistan",
+"status": "illegal",
+"headline": "Strictly illegal; long prison terms for trafficking",
+"points": [
+"Possession without intent to sell: a fine or up to about 3 years in prison",
+"Public drug use: up to 15 days of administrative detention",
+"Trafficking: 7-10 yrs online or near schools; 15-20 yrs for large amounts (2026 law)",
+"Medical: no legal program"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://en.wikipedia.org/wiki/Cannabis_in_Uzbekistan",
+"https://gov.uz/en/mirishkor/news/view/181583",
+"https://kun.uz/en/news/2026/05/12/cross-border-drug-trafficking-ring-dismantled-in-andijan"
+]
+},
+"Asia/Kolkata|Colombo": {
+"iso2": "LK",
+"lat": 6.93,
+"lon": 79.86,
+"iana": "Asia/Colombo",
+"where": "Colombo, Sri Lanka",
+"status": "illegal",
+"headline": "Illegal; possession and growing are crimes with prison terms",
+"points": [
+"Under 1 kg: fine Rs20,000-50,000 and/or 1-2 years (Poisons, Opium & Dangerous Drugs Ord.)",
+"Larger amounts: 2-15 years by weight tier",
+"Growing and trafficking illegal; death penalty applies to heroin, cocaine etc., not this drug",
+"Only licensed Ayurvedic traditional preparations; no modern medical program"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.srilankalaw.lk/p/901-poisons-opium-and-dangerous-drugs-ordinance.html",
+"https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
+]
+},
+"Asia/Kolkata|Delhi": {
+"iso2": "IN",
+"lat": 28.61,
+"lon": 77.21,
+"iana": "Asia/Kolkata",
+"where": "Delhi (NCT), India",
+"status": "death",
+"headline": "Illegal; national law: a death sentence was given for charas trafficking (Mumbai 2008)",
+"points": [
+"Small quantity (ganja under 1 kg): up to 6 months RI and/or Rs10,000 fine",
+"Commercial (20 kg+ ganja): 10-20 yrs; growing illegal without licence",
+"Bhang (leaves) not listed under NDPS; no Delhi-specific ban found",
+"Licensed Ayurvedic cannabis medicines only; no medical program"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": "National law (NDPS Act s.31A): Mumbai special court sentenced Ghulam Malik to death for 187 kg charas (2008; commuted 2012).",
+"as_of": "2026-10-25",
+"sources": [
+"https://www.thenewsminute.com/article/what-legal-and-illegal-about-weed-india-look-ndps-act-1985-133726",
+"https://delhihighcourt.nic.in/app/showFileJudgment/60822052026BA15422026_124853.pdf",
+"https://english.nessunotocchicaino.it/notizia/india-hc-commutes-death-sentence-of-drug-peddler-to-30-year-ri-16305600"
+]
+},
+"Asia/Manila|Beijing": {
+"iso2": "CN",
+"lat": 39.9,
+"lon": 116.41,
+"iana": "Asia/Shanghai",
+"where": "Beijing, China",
+"status": "death",
+"headline": "Strictly illegal; large-scale trafficking can carry the death penalty",
+"points": [
+"Use/small possession: 10-15 days administrative detention plus fine",
+"Repeat users may face compulsory treatment; no personal amount allowed",
+"Trafficking large quantities (e.g. 150 kg+ leaf): 15 yrs, life or death",
+"No medical program; national law applies in Beijing"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": "16 Sept 1998: three men sentenced to death in Guangdong for smuggling over 4 tonnes of cannabis from Cambodia (Amnesty ASA 17/033/1998). Same national Criminal Law (Art. 347) governs Beijing.",
+"as_of": "2026-10-25",
+"sources": [
+"https://www.amnesty.org/es/wp-content/uploads/2021/06/asa170331998en.pdf",
+"https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf",
+"https://en.wikipedia.org/wiki/Cannabis_in_China"
+]
+},
+"Asia/Manila|Perth": {
+"iso2": "AU",
+"lat": -31.95,
+"lon": 115.86,
+"iana": "Australia/Perth",
+"where": "Perth, Western Australia, Australia",
+"status": "medical",
+"headline": "Recreational illegal in WA; up to 10 g diverted to intervention session; medical OK",
+"points": [
+"Up to 10 g (adult, first time): police may issue Cannabis Intervention Requirement",
+"Complete session within 28 days = no conviction; adults get only one CIR",
+"Growing any plants and resin/oil are excluded from CIR and prosecuted",
+"Medical: TGA-approved prescriptions available nationally"
+],
+"varies": "Police discretion on CIR; only ACT (Canberra) allows adult personal possession",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.mhc.wa.gov.au/media/1228/cannabis-intervention-requirement-adult-brochure.pdf",
+"https://drugaware.com.au/get-the-facts/faqs-ask-a-question/the-law/",
+"https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_41333.pdf/$FILE/Misuse%20Of%20Drugs%20Act%201981%20-%20%5B07-d0-01%5D.pdf"
+]
+},
+"Asia/Manila|Singapore": {
+"iso2": "SG",
+"lat": 1.29,
+"lon": 103.85,
+"iana": "Asia/Singapore",
+"where": "Singapore",
+"status": "death",
+"headline": "Zero tolerance: trafficking over 500 g carries death, and executions have taken place",
+"points": [
+"Use or possession: up to 10 years and/or S$20,000; repeat users face caning",
+"Over 15 g is presumed trafficking: 5-20 years plus caning",
+"Over 500 g: death penalty under the Misuse of Drugs Act",
+"No medical program; citizens can be charged for use abroad"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": "Tangaraju Suppiah was sentenced to death in 2018 for abetting trafficking of 1,017.9 g of cannabis and hanged on 26 Apr 2023 (Al Jazeera). Omar Yacob Bamadhaj was also hanged in 2022 for cannabis trafficking",
+"as_of": "2026-10-25",
+"sources": [
+"https://www.aljazeera.com/news/2023/4/26/singapore-hangs-man-for-trafficking-1kg-cannabis",
+"https://en.wikipedia.org/wiki/Execution_of_Tangaraju_Suppiah",
+"https://sso.agc.gov.sg/Act/MDA1973"
+]
+},
+"Asia/Sakhalin|Magadan": {
+"iso2": "RU",
+"lat": 59.56,
+"lon": 150.8,
+"iana": "Asia/Magadan",
+"where": "Magadan Oblast, Russia",
+"status": "illegal",
+"headline": "Illegal; under 6 g means a fine or up to 15 days arrest, more is criminal",
+"points": [
+"Under 6 g: administrative offence, fine RUB 4,000-5,000 or up to 15 days arrest (Admin Code 6.8)",
+"Over 6 g: criminal (CC Art. 228), up to 3 years; over 100 g: 3-10 years",
+"Growing under 20 plants is administrative; more is criminal; foreigners face expulsion",
+"Medical: no program; federal law applies the same in every region"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.consultant.ru/document/cons_doc_LAW_34661/",
+"https://www.consultant.ru/document/cons_doc_LAW_10699/",
+"https://en.wikipedia.org/wiki/Cannabis_in_Russia"
+]
+},
+"Asia/Tokyo|Seoul": {
+"iso2": "KR",
+"lat": 37.57,
+"lon": 126.98,
+"iana": "Asia/Seoul",
+"where": "Seoul, South Korea",
+"status": "illegal",
+"headline": "Illegal: possession and use are crimes; only approved cannabis-derived medicines allowed",
+"points": [
+"Use/possession: up to 5 years prison or fine up to ₩50M (Narcotics Control Act)",
+"Growing and sale are criminal; for-profit import/export carries harsher terms",
+"Medical: only approved drugs (e.g. Epidiolex) by prescription, case by case, since 2019",
+"Koreans can be prosecuted for use abroad; no death sentence for this offence documented"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://en.wikipedia.org/wiki/Cannabis_in_South_Korea",
+"https://mjbizdaily.com/?p=119364",
+"https://cannigma.com/regulation/south-korea-cannabis-laws/"
+]
+},
+"Asia/Yangon|Cocos Islands": {
+"iso2": "CC",
+"lat": -12.19,
+"lon": 96.83,
+"iana": "Indian/Cocos",
+"where": "Cocos (Keeling) Islands, Australia",
+"status": "medical",
+"headline": "WA drug law applies; small possession may be diverted; federal medical access",
+"points": [
+"WA law applies via s8A Cocos (Keeling) Islands Act 1955, plus Commonwealth law",
+"≤10 g (adult, first time): police may issue a Cannabis Intervention Requirement instead of charge",
+"Growing plants and resin: prosecuted in court under the WA Misuse of Drugs Act 1981",
+"Medical: TGA prescription access is Commonwealth-wide"
+],
+"varies": "Ordinances can amend or suspend applied WA laws in the Territory",
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/governance-administration",
+"https://www.legislation.gov.au/C1955A00034/latest/text",
+"https://www.mhc.wa.gov.au/media/1228/cannabis-intervention-requirement-adult-brochure.pdf"
+]
+},
+"Australia/Brisbane|Guam": {
+"iso2": "GU",
+"lat": 13.48,
+"lon": 144.75,
+"iana": "Pacific/Guam",
+"where": "Guam (US territory)",
+"status": "legal",
+"headline": "Adults 21+ may possess up to 1 oz and grow 6 plants; no retail sales yet",
+"points": [
+"Age 21+: possess up to 1 oz; gifting up to 1 oz allowed, selling is not",
+"Growing: 6 plants (3 flowering) in a locked space out of public view",
+"Retail: first cultivation licenses 2026; no store sales reported as of mid-2026",
+"Medical: separate program; public use and impaired driving prohibited"
+],
+"varies": "US federal law still applies on military bases and federal land",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.hawaiipublicradio.org/post/guam-legalizes-recreational-use-marijuana",
+"https://www.islapublic.org/news/2026-02-25/guams-first-cannabis-establishment-licenses-approved",
+"https://www.islapublic.org/news/2026-06-24/cannabis-control-board-issues-its-first-permit-for-a-guam-cannabis-business"
+]
+},
+"Australia/Sydney|Melbourne": {
+"iso2": "AU",
+"lat": -37.81,
+"lon": 144.96,
+"iana": "Australia/Melbourne",
+"where": "Melbourne, Victoria, Australia",
+"status": "medical",
+"headline": "Victoria: possession for personal use is a crime; police often caution; medical is legal",
+"points": [
+"Up to 50 g, not for sale: offence, up to 5 penalty units (s73 DPCS Act 1981)",
+"Police guidance (Sept 2024) recommends a caution for up to 50 g, but only about 37% of cases are cautioned",
+"Growing: illegal; 10 plants or 250 g counts as a trafficable quantity",
+"Medical: TGA-regulated prescriptions available nationally"
+],
+"varies": "May 2026: upper house motion urges putting cautions into law; no bill yet",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.legalaid.vic.gov.au/find-legal-answers/criminal-offences/drug-possession",
+"https://www.armstronglegal.com.au/criminal-law/vic/offences/drugs/possession/",
+"https://rachelpayne.com.au/cautions-not-cuffs-personal-use-possession/",
+"https://fclc.org.au/personal_possession_of_cannabis"
+]
+},
+"Europe/Athens|Helsinki": {
+"iso2": "FI",
+"lat": 60.17,
+"lon": 24.94,
+"iana": "Europe/Helsinki",
+"where": "Helsinki, Finland",
+"status": "medical",
+"headline": "Illegal; personal use is fined; medical use only by special permit",
+"points": [
+"Drug use offence (small amount): day-fines or up to 6 months; first-timers may be waived",
+"Growing and sale: up to 2 years; aggravated 1-10 years (Criminal Code ch. 50)",
+"Medical: Sativex on prescription; flower/oil only via Fimea special permit",
+"Parliament rejected a legalisation citizens' initiative (vote reported Feb 2026)"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.finlex.fi/en/laki/kaannokset/1889/en18890039.pdf",
+"https://yle.fi/a/74-20072083",
+"https://prohibitionpartners.com/2025/10/10/finland-medical-cannabis-market-overview-2025/"
+]
+},
+"Europe/Athens|Kyiv": {
+"iso2": "UA",
+"lat": 50.45,
+"lon": 30.52,
+"iana": "Europe/Kyiv",
+"where": "Kyiv, Ukraine",
+"status": "medical",
+"headline": "Medical route via pharmacy prescriptions since 2026; recreational possession prohibited",
+"points": [
+"Under 5 g: administrative fine (Art. 44 CAO), no criminal record",
+"Above small amount: criminal (Art. 309), up to 3 yrs; larger 2-5 yrs",
+"Growing and trafficking criminal; trafficking 4-8 yrs",
+"Medical law 2024; e-prescriptions, pharmacy dispensing since June 2026"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://voxukraine.org/en/evidence-based-cannabis-regulation-in-ukraine-in-a-european-context",
+"https://cms.law/en/int/expert-guides/cms-expert-guide-to-a-legal-roadmap-to-cannabis/ukraine",
+"https://mugglehead.com/ukraine-becomes-latest-nation-to-start-selling-medical-cannabis/"
+]
+},
+"Europe/London|Dublin": {
+"iso2": "IE",
+"lat": 53.35,
+"lon": -6.26,
+"iana": "Europe/Dublin",
+"where": "Dublin, Ireland",
+"status": "medical",
+"headline": "Illegal; first-time small possession can go to a health referral (since Sept 2026); medical access programme",
+"points": [
+"Possession illegal; first offence fine up to about EUR 1,000, repeat can mean jail",
+"Health Referral Scheme (1 Sep 2026): adults 18+, small amount, one-time diversion",
+"Dealing: up to life; EUR 13,000+ worth carries presumptive 10-yr minimum",
+"Medical: MCAP access programme for 3 conditions, plus ministerial licences"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2026/september/31-08-2026-an-garda-siochana-will-implement-the-health-referral-scheme-from-1st-september-2026.html",
+"https://www.drugsandalcohol.ie/46709/",
+"https://www.irishexaminer.com/news/courtandcrime/arid-41904238.html"
+]
+},
+"Europe/London|Lisbon": {
+"iso2": "PT",
+"lat": 38.72,
+"lon": -9.14,
+"iana": "Europe/Lisbon",
+"where": "Lisbon, Portugal",
+"status": "decriminalized",
+"headline": "Decriminalized since 2001: personal possession is an administrative offence",
+"points": [
+"Up to a 10-day supply (about 25 g herb, 5 g resin) goes to a Dissuasion Commission, not court",
+"Since Law 55/2023 the quantity guide is indicative; intent decides personal use vs trafficking",
+"Growing and sale remain crimes (trafficking 4-12 years)",
+"Medical: legal by prescription since 2018 (Law 33/2018), pharmacy-dispensed"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.euda.europa.eu/drugs-library/decriminalisation-europe-recent-developments-legal-approaches-drug-use-eldd-comparative-study_en",
+"https://run.unl.pt/handle/10362/169678",
+"https://drugpolicyfacts.org/node/3193"
+]
+},
+"Europe/Moscow|Istanbul": {
+"iso2": "TR",
+"lat": 41.01,
+"lon": 28.98,
+"iana": "Europe/Istanbul",
+"where": "Istanbul, Türkiye",
+"status": "illegal",
+"headline": "Illegal; personal use and possession carry 2-5 years' prison",
+"points": [
+"Personal possession/use: 2-5 yrs prison (Penal Code art. 191, as amended 2014)",
+"First offenders usually get deferred prosecution with treatment/probation",
+"Sale/supply: 10+ yrs; unlicensed growing is a crime",
+"No consumer medical route; only state-licensed farms grow cannabis"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.mondaq.com/turkey/cannabis-hemp/958784/drug-possession-and-criminal-penalties-in-turkey",
+"https://www.bicakhukuk.com/en/narcotic-drug-offences-in-turkey/"
+]
+},
+"Europe/Moscow|Nairobi": {
+"iso2": "KE",
+"lat": -1.29,
+"lon": 36.82,
+"iana": "Africa/Nairobi",
+"where": "Nairobi, Kenya",
+"status": "illegal",
+"headline": "Illegal nationwide; prison terms even for personal-use possession",
+"points": [
+"Possession for personal use: up to 10 years (NDPSC Act 1994, s.3); other possession up to 20 years",
+"Courts hand down real terms: e.g. 5 years for 200 g (High Court, 2024)",
+"Trafficking: up to life plus large fines; a 2024 Kilifi case drew 50 years",
+"Medical: no program; legalisation bills have not passed"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.refworld.org/node/74255",
+"https://new.kenyalaw.org/akn/ke/judgment/kehc/2024/7633/eng@2024-06-25",
+"https://eastleighvoice.co.ke/kilifi%20drug%20dealers/27691/kilifi-bhang-dealer-sentenced-to-50-years-in-prison"
+]
+},
+"Europe/Paris|Berlin": {
+"iso2": "DE",
+"lat": 52.52,
+"lon": 13.4,
+"iana": "Europe/Berlin",
+"where": "Berlin, Germany",
+"status": "legal",
+"headline": "Legal since April 2024: possess 25 g, grow 3 plants; Berlin fines for use zones",
+"points": [
+"Adults 18+ may possess 25 g in public and 50 g at home (KCanG)",
+"Growing: 3 plants per adult; non-profit clubs licensed by LAGeSo",
+"Berlin fine catalogue since 1 Nov 2024: use near schools/playgrounds is fined",
+"No shops; medical by prescription via pharmacies"
+],
+"varies": "Berlin bans use near schools, playgrounds and in pedestrian zones 7:00-20:00",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2024/pressemitteilung.1498262.php",
+"https://www.berlin.de/lb/drogen-sucht/gesetze/konsumcannabis-gesetz/",
+"https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25438.pdf"
+]
+},
+"Europe/Paris|Madrid": {
+"iso2": "ES",
+"lat": 40.42,
+"lon": -3.7,
+"iana": "Europe/Madrid",
+"where": "Madrid, Spain",
+"status": "decriminalized",
+"headline": "Private possession allowed; public possession or use fined from €601 (LO 4/2015)",
+"points": [
+"Private possession for personal use: no penalty",
+"Public possession/use: administrative fine from 601 EUR (Ley Orgánica 4/2015)",
+"Growing visible to public is fined; trafficking is a crime",
+"Medical: 2025 decree allows hospital-dispensed cannabis preparations"
+],
+"varies": "Social clubs in a legal grey zone; regional club laws struck down",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442",
+"https://cms.law/en/int/expert-guides/cms-expert-guide-to-a-legal-roadmap-to-cannabis/spain",
+"https://english.adnkronos.com/2025/10/07/spain-government-approves-therapeutic-cannabis-but-only-in-hospital"
+]
+},
+"Europe/Paris|Rome": {
+"iso2": "IT",
+"lat": 41.89,
+"lon": 12.48,
+"iana": "Europe/Rome",
+"where": "Rome, Italy",
+"status": "decriminalized",
+"headline": "Personal possession is an administrative offence; sale and growing are crimes",
+"points": [
+"Personal use: administrative sanctions, e.g. licence or passport suspension for 1-3 months",
+"Sale and trafficking: criminal (DPR 309/1990 Art. 73); minor cases reduced penalties",
+"Growing: criminal in principle; tiny domestic grows sometimes held non-punishable by courts",
+"Medical: prescription access; reimbursement set by region (Lazio)"
+],
+"varies": "Medical reimbursement varies by region",
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://cms.law/en/int/expert-guides/cms-expert-guide-to-a-legal-roadmap-to-cannabis/italy",
+"https://www.dequo.it/consulenze/diritto-amministrativo/art-75-cosa-accadra",
+"https://en.wikipedia.org/wiki/Cannabis_in_Italy"
+]
+},
+"Pacific/Pago_Pago|Midway": {
+"iso2": "UM",
+"lat": 28.21,
+"lon": -177.38,
+"iana": "Pacific/Midway",
+"where": "Midway Atoll, US Minor Outlying Islands",
+"status": "illegal",
+"headline": "US federal wildlife refuge; full federal criminal law applies, so possession is illegal",
+"points": [
+"No permanent residents; Fish and Wildlife Service refuge, access by permit only",
+"US criminal code applies in full (50 CFR 38.7); Hawaii law only where not in conflict",
+"Federal possession: up to 1 year plus a minimum $1,000 fine (first offence)",
+"Medical: no state program exists, so the federal medical carve-out can't apply"
+],
+"varies": null,
+"confidence": "medium",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://www.law.cornell.edu/cfr/text/50/38.7",
+"https://www.ecfr.gov/current/title-50/chapter-I/subchapter-C/part-38",
+"https://www.law.cornell.edu/uscode/text/21/844"
+]
+},
+"Pacific/Tongatapu|Samoa": {
+"iso2": "WS",
+"lat": -13.83,
+"lon": -171.76,
+"iana": "Pacific/Apia",
+"where": "Samoa",
+"status": "illegal",
+"headline": "Possession and growing are crimes under the Narcotics Act 1967; no medical route",
+"points": [
+"Class B narcotic: up to 14 years for possession or growing",
+"2025 sentences: discharge or community service to 24 months jail",
+"Supply/dealing punished more severely",
+"No medical program"
+],
+"varies": null,
+"confidence": "high",
+"death_evidence": null,
+"as_of": "2026-10-25",
+"sources": [
+"https://rms.paclii.org/ws/cases/WSSC/2025/6.html",
+"https://pacliirms.paclii.org/ws/cases/WSSC/2025/28.html",
+"https://rms.paclii.org/ws/cases/WSSC/2025/74.html"
+]
+}
+}
+}

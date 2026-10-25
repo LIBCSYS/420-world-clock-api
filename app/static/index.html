@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The 420 API — the world's only 4:20 API · free beginner API tutorial</title>
+<meta name="description" content="The 420 API: the world's only 4:20 API. Free, no key, read-only — ask where it's 4:20 right now, who's next, every time zone and a country-by-country marijuana law reference. A beginner-friendly API tutorial with copy-paste JavaScript, Python and curl examples.">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32.png?v=2">
+<link rel="icon" type="image/png" sizes="64x64" href="/static/icon-64.png?v=2">
+<link rel="apple-touch-icon" href="/static/apple-touch-icon.png?v=2">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://api.420.menow.us/">
+<meta property="og:title" content="The 420 API — the world's only 4:20 API (free, no key)">
+<meta property="og:description" content="Where it is 4:20 right now, the countdown queue, every time zone and a country law reference. Plain-English tutorial and copy-paste examples.">
+<meta property="og:image" content="https://api.420.menow.us/static/og-api.jpg?v=2">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="593">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://api.420.menow.us/static/og-api.jpg?v=2">
+<style>
+:root{--bg:#0d1210;--card:#131b18;--rule:#26332d;--ink:#eafff0;--dim:#a9bdb2;--green:#5be07c;--gold:#f2dc63;--blue:#8da2f4;--code:#0a0f0d}
+*{box-sizing:border-box}
+html{font-size:19px}
+body{margin:0;background:var(--bg);color:var(--ink);font:1.05rem/1.6 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:860px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:2rem;line-height:1.15;margin:0 0 6px}
+h1 span{color:var(--green)}
+h2{font-size:1.35rem;margin:36px 0 10px;padding-top:12px;border-top:1px solid var(--rule)}
+h3{font-size:1.05rem;margin:22px 0 6px;color:var(--gold)}
+p{margin:0 0 12px}
+.lede{color:var(--dim);font-size:1.1rem}
+a{color:#7cc8ff}
+code{font:.92em ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--code);border:1px solid var(--rule);border-radius:6px;padding:1px 6px}
+pre{background:var(--code);border:1px solid var(--rule);border-radius:10px;padding:14px;overflow-x:auto;font:.88rem/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;margin:0 0 14px}
+pre code{background:none;border:0;padding:0}
+.box{background:var(--card);border:1px solid var(--rule);border-radius:14px;padding:16px;margin:0 0 16px}
+.steps{padding-left:22px}.steps li{margin:6px 0}
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{color:var(--dim);font-weight:600}
+td code{white-space:nowrap}
+.try{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.try button{font:inherit;font-size:.95rem;border:1px solid var(--green);background:transparent;color:var(--ink);border-radius:999px;padding:6px 14px;cursor:pointer;min-height:40px}
+.try button:hover,.try button:focus-visible{background:rgba(91,224,124,.15);outline:none}
+#result{max-height:360px}
+.ans{font-size:1.15rem;margin:0 0 10px}
+.ans b{color:var(--green)}
+.small{font-size:.85rem;color:var(--dim)}
+td a code,pre a{color:#7cc8ff}
+.hero{display:block;width:100%;height:auto;border-radius:16px;margin:0 0 14px;border:1px solid var(--rule)}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+footer{margin-top:40px;padding-top:14px;border-top:1px solid var(--rule)}
+@media (max-width:640px){html{font-size:18px}h1{font-size:1.6rem}}
+</style>
+</head>
+<body>
+<main>
+  <img class="hero" src="/static/api-logo.jpg?v=2" width="1024" height="506" alt="420 World Clock API — free, read-only, no key required">
+  <h1 class="vh"><span>420</span> World Clock API</h1>
+  <p class="lede"><strong>The world's only 4:20 API</strong> — and a friendly first API to learn on. Free and read-only. Ask it where it's 4:20 right now, who's next, what time it is in every zone, and what the law says in each country. No sign-up, no key.</p>
+
+  <div class="box">
+    <p class="ans" id="live">Asking the API…</p>
+    <p class="small">That line comes from the API itself, live, using the 5 lines of code shown under “Your first program” below.</p>
+  </div>
+
+  <h2>What is an API?</h2>
+  <p>An API is a way for one program to ask another program a question and get back an answer it can use.</p>
+  <p>Think of a restaurant. You don't walk into the kitchen; you give the waiter your order, and the waiter brings back your food. The API is the waiter:</p>
+  <ul class="steps">
+    <li><strong>You ask</strong> by visiting an address (a URL), like <a href="/v1/now"><code>https://api.420.menow.us/v1/now</code></a>.</li>
+    <li><strong>The API answers</strong> with data in a format called <strong>JSON</strong> — plain text that looks like labelled boxes: <code>"place": "New York"</code>. Try it: <a href="/v1/zones/America/New_York">when is New York's next 4:20?</a></li>
+    <li><strong>Your program reads</strong> the box it wants (for example <code>place</code>) and shows it however you like.</li>
+  </ul>
+  <p>Every address in this API is a <strong>GET</strong> request — it only reads. You can't change anything, so you can't break anything. Experiment freely.</p>
+
+  <h2>Try it right now</h2>
+  <p>Press a button. You'll see exactly what a program receives.</p>
+  <div class="try">
+    <button type="button" data-u="/v1/now">Where is it 4:20?</button>
+    <button type="button" data-u="/v1/laws/NL">Netherlands law</button>
+    <button type="button" data-u="/v1/zones/Europe/Paris/law">Paris zone law</button>
+    <button type="button" data-u="/v1/time">Server clock</button>
+    <button type="button" data-u="/v1/meta">Data version</button>
+  </div>
+  <pre id="result"><code>Pick a button above.</code></pre>
+
+  <h2>The addresses (endpoints)</h2>
+  <table>
+    <tr><th>Address</th><th>What you get back</th></tr>
+    <tr><td><a href="/v1/now"><code>/v1/now</code></a></td><td>Is it 4:20 anywhere right now, the closest place, what's next, and the next 7 moments in the countdown queue.</td></tr>
+    <tr><td><a href="/v1/zones/America/New_York"><code>/v1/zones/America/New_York</code></a></td><td>One zone: its local time and minutes until its next 4:20.</td></tr>
+    <tr><td><a href="/v1/zones"><code>/v1/zones</code></a></td><td>Every zone on the map: local time, UTC offset, minutes from 4:20, minutes until its next 4:20.</td></tr>
+    <tr><td><a href="/v1/laws"><code>/v1/laws</code></a></td><td>Every country's status: <code>legal</code>, <code>decriminalized</code>, <code>medical</code>, <code>illegal</code> or <code>death</code>. Add <code>?status=legal</code> to filter.</td></tr>
+    <tr><td><a href="/v1/laws/NL"><code>/v1/laws/NL</code></a></td><td>One country's full law card (use the two-letter code: NL, CA, SG…), with sources.</td></tr>
+    <tr><td><a href="/v1/zones/Europe/Paris/law"><code>/v1/zones/Europe/Paris/law</code></a></td><td>The local law card for one map zone (the zone's <code>tzid</code> from <code>/v1/zones</code>).</td></tr>
+    <tr><td><a href="/v1/zones/America/Lima/places"><code>/v1/zones/America/Lima/places</code></a></td><td>Every place named in a zone (Lima, Bogotá, Panama), each with its own law card and coordinates.</td></tr>
+    <tr><td><a href="/v1/time"><code>/v1/time</code></a></td><td>The server's clock in milliseconds, cross-checked against the US Naval Observatory.</td></tr>
+    <tr><td><a href="/v1/meta"><code>/v1/meta</code></a></td><td>When the law data was last checked, plus the offline database's size and fingerprint.</td></tr>
+    <tr><td><a href="/v1/laws.sqlite"><code>/v1/laws.sqlite</code></a></td><td>The whole law database as one SQLite file, for apps that work offline.</td></tr>
+  </table>
+  <p class="small">Full technical reference: <a href="/docs">/docs</a> (every field, try-it-out forms).</p>
+
+  <h2>Your first program</h2>
+
+  <h3>1 · No code at all: your browser</h3>
+  <p>Paste this into the address bar. Your browser shows the raw answer.</p>
+  <pre><code><a href="/v1/now">https://api.420.menow.us/v1/now</a></code></pre>
+
+  <h3>2 · JavaScript (a web page)</h3>
+  <p>Save this as <code>420.html</code> and open it. It shows where it's 4:20 next.</p>
+  <pre><code>&lt;p id="next"&gt;Loading…&lt;/p&gt;
+&lt;script&gt;
+fetch('https://api.420.menow.us/v1/now')          // 1. ask the API
+  .then(response =&gt; response.json())               // 2. read the JSON answer
+  .then(data =&gt; {
+    const n = data.next;                            // 3. pick the box you want
+    document.getElementById('next').textContent =
+      `Next 4:20: ${n.place} in ${n.minutes_until_next_420} minutes`;
+  });
+&lt;/script&gt;</code></pre>
+
+  <h3>3 · Python</h3>
+  <p>Uses only what comes with Python — nothing to install.</p>
+  <pre><code>import json, urllib.request
+
+with urllib.request.urlopen("https://api.420.menow.us/v1/now") as r:
+    data = json.load(r)
+
+if data["is_420_somewhere"]:
+    print("It's 4:20 now in:", ", ".join(p["place"] for p in data["now_at_420"]))
+print("Next up:", data["next"]["place"], "in", data["next"]["minutes_until_next_420"], "minutes")</code></pre>
+
+  <h3>4 · The command line</h3>
+  <pre><code>curl <a href="/v1/laws/CA">https://api.420.menow.us/v1/laws/CA</a></code></pre>
+
+  <h2>Reading the answer</h2>
+  <p>Part of a <code>/v1/now</code> answer, with notes:</p>
+  <pre><code>{
+  "time_utc": "2026-10-25T16:05:12+00:00",   ← when the API answered (UTC)
+  "is_420_somewhere": false,                 ← true during a 4:20 minute
+  "next": {
+    "place": "Chicago",
+    "local_time": "3:05 PM",
+    "minutes_until_next_420": 15             ← the countdown
+  },
+  "queue": [                                 ← the next moments, in order
+    { "in_minutes": 15, "places": ["Chicago", "Lima"] },
+    { "in_minutes": 45, "places": ["Kathmandu"] }
+  ],
+  "attribution": "Data: The Official 420 World Clock (420.menow.us) · LIBCSystems LLC"
+}</code></pre>
+
+  <h2>Fair use</h2>
+  <ul class="steps">
+    <li><strong>Free</strong> for personal, school and commercial use.</li>
+    <li><strong>Please show the attribution</strong> line (it's in every answer) and link to <a href="https://420.menow.us/">420.menow.us</a>.</li>
+    <li><strong>Be gentle:</strong> there's a per-address rate limit. For live displays, asking once a minute is plenty — the clock only changes once a minute.</li>
+    <li><strong>Law data</strong> is researched with sources and dated (see <code>as_of</code>), but laws change. Information and education only — not legal advice.</li>
+  </ul>
+
+  <footer>
+    <p class="small">© 2026 <a href="https://libcsys.com/">LIBCSystems LLC</a> · a <a href="https://jelia.nyc/">Jelia.NYC Studios</a> production, with John Elia · <a href="https://420.menow.us/">420.menow.us</a></p>
+    <p class="small">Information and education only — not legal advice, and not an encouragement to break any law. Laws change; check official sources before you travel.</p>
+  </footer>
+</main>
+<script>
+// The live line at the top uses the same request as the JavaScript example.
+fetch('/v1/now').then(r => r.json()).then(d => {
+  const el = document.getElementById('live');
+  const now = d.is_420_somewhere ? `It's 4:20 right now in <b>${d.now_at_420.map(p => p.place).join(', ')}</b>. ` : '';
+  el.innerHTML = now + `Next 4:20: <b>${d.next.place}</b> in ${d.next.minutes_until_next_420} minute${d.next.minutes_until_next_420 === 1 ? '' : 's'}.`;
+}).catch(() => { document.getElementById('live').textContent = 'The live example could not reach the API just now.'; });
+for (const b of document.querySelectorAll('.try button')) b.addEventListener('click', async () => {
+  const out = document.querySelector('#result code'); out.textContent = 'GET ' + b.dataset.u + ' …';
+  try { const r = await fetch(b.dataset.u); out.textContent = 'GET ' + b.dataset.u + '\n\n' + JSON.stringify(await r.json(), null, 2); }
+  catch (e) { out.textContent = 'Could not reach the API: ' + e; }
+});
+</script>
+</body>
+</html>

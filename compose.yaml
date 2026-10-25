@@ -1,0 +1,16 @@
+# Run the API locally: docker compose up --build  →  http://localhost:8000/
+services:
+  api420:
+    build: .
+    image: api420:1.0.0
+    restart: unless-stopped
+    read_only: true
+    tmpfs: [/tmp]
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    mem_limit: 256m
+    pids_limit: 100
+    ports: ["8000:8000"]
+    volumes:
+      # Law data shipped in this repo; regenerate with tools/cannabis-laws-export.py if you run your own database.
+      - ./data:/data:ro
