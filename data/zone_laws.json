@@ -29,6 +29,21 @@
 "as_of": "2026-10-25",
 "source": "https://hri.global/wp-content/uploads/2026/03/HRI-GO-Death-penalty-drugs-2025-FINAL.pdf"
 },
+"Africa/Casablanca": {
+"iso2": "MA",
+"where": "Casablanca, Morocco",
+"status": "medical",
+"headline": "Legal medical/industrial cannabis; recreational use still a crime",
+"points": [
+"Personal use: 2 months to 1 year in prison and/or MAD 500-5,000 fine",
+"Licensed medical, cosmetic and industrial cultivation legal since Law 13-21 (2021)",
+"THC medicine by prescription only; no recreational access",
+"Trafficking: 5-10 years plus heavy fines"
+],
+"varies": "Western Sahara (disputed): Moroccan law applies in the areas Morocco administers",
+"as_of": "2026-10-25",
+"source": "https://www.moroccoworldnews.com/2026/04/288134/moroccos-legal-cannabis-production-reaches-19576-quintals-in-2025/"
+},
 "Africa/Johannesburg": {
 "iso2": "ZA",
 "where": "Johannesburg, South Africa",
