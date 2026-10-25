@@ -50,13 +50,21 @@ td a code,pre a{color:#7cc8ff}
 .vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 footer{margin-top:40px;padding-top:14px;border-top:1px solid var(--rule)}
 @media (max-width:640px){html{font-size:18px}h1{font-size:1.6rem}}
+/* Way back to the map (J 2026-10-25): a top bar plus a button under the lede, both to 420.menow.us. */
+.backbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 14px;font-size:1rem}
+.backbar a{color:#7ee08a;text-decoration:none;font-weight:600}
+.backbar a:hover,.backbar a:focus-visible{text-decoration:underline}
+.tosite{display:inline-block;margin:4px 0 18px;padding:10px 20px;border-radius:999px;background:#1f7a3a;color:#fff;font-weight:700;text-decoration:none;border:1px solid #3cb043}
+.tosite:hover,.tosite:focus-visible{background:#26924a;color:#fff}
 </style>
 </head>
 <body>
 <main>
+  <nav class="backbar" aria-label="Site"><a href="https://420.menow.us/">← 420 World Clock — the live map</a><a href="https://github.com/LIBCSYS/420-world-clock-api">Source on GitHub</a></nav>
   <img class="hero" src="/static/api-logo.jpg?v=2" width="1024" height="506" alt="420 World Clock API — free, read-only, no key required">
   <h1 class="vh"><span>420</span> World Clock API</h1>
   <p class="lede"><strong>The world's only 4:20 API</strong> — and a friendly first API to learn on. Free and read-only. Ask it where it's 4:20 right now, who's next, what time it is in every zone, and what the law says in each country. No sign-up, no key.</p>
+  <a class="tosite" href="https://420.menow.us/">See it live on the map → 420.menow.us</a>
 
   <div class="box">
     <p class="ans" id="live">Asking the API…</p>
