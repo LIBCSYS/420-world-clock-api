@@ -1,3 +1,5 @@
+<p align="center"><a href="https://api.420.menow.us/"><img src="app/static/api-logo.jpg" alt="420 World Clock API — free, read-only, no key required" width="760"></a></p>
+
 # The 420 API
 
 **The world's only 4:20 API.** A free, read-only JSON API that tells you where in the world it's 4:20 right now — AM or PM — plus marijuana law status for 197 countries, each with a source.
